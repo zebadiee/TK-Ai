@@ -1,0 +1,89 @@
+{
+  "actions": {
+    "clawx_monitor": {
+      "async": true,
+      "capabilities": [
+        "monitor",
+        "watch",
+        "track",
+        "research"
+      ],
+      "providers": [
+        "clawx"
+      ],
+      "tiers": [
+        "clawx"
+      ]
+    },
+    "model_infer": {
+      "async": false,
+      "capabilities": [
+        "analyse",
+        "analyze",
+        "summarise",
+        "summarize",
+        "classify",
+        "reason"
+      ],
+      "providers": [
+        "ollama"
+      ],
+      "tiers": [
+        "local"
+      ]
+    },
+    "noop": {
+      "async": false,
+      "capabilities": [
+        "noop"
+      ],
+      "providers": [
+        "internal"
+      ],
+      "tiers": [
+        "system"
+      ]
+    },
+    "notify": {
+      "async": false,
+      "capabilities": [
+        "notify",
+        "alert",
+        "deliver"
+      ],
+      "providers": [
+        "internal"
+      ],
+      "tiers": [
+        "system"
+      ]
+    }
+  },
+  "limits": {
+    "max_nodes_per_graph": 5
+  },
+  "models": {
+    "clawx": [
+      "clawx-research"
+    ],
+    "ollama": [
+      "qwen2.5"
+    ]
+  },
+  "planner": {
+    "model": "qwen2.5",
+    "timeout": 30,
+    "url": "http://localhost:11434/api/generate"
+  },
+  "node_templates": {
+    "analysis_flow": [
+      "analyse",
+      "notify"
+    ],
+    "monitor_flow": [
+      "monitor",
+      "analyse",
+      "notify"
+    ]
+  }
+}

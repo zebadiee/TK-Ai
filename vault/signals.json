@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "graph_id": "market_alert_graph",
+      "min_score": 2.0,
+      "rule_id": "market_fusion",
+      "signal_types": [
+        "market_move",
+        "filing_detected"
+      ],
+      "within_seconds": 300
+    }
+  ]
+}

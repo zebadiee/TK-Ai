@@ -1,0 +1,13 @@
+{
+  "market_alert_graph": {
+    "active": "market_alert_graph_v1",
+    "experimental": [],
+    "failure_count": 0,
+    "history": [
+      "market_alert_graph_v1"
+    ],
+    "versions": [
+      "market_alert_graph_v1"
+    ]
+  }
+}

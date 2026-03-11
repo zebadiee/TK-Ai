@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "purpose": "Market alert analysis and notification"
+  },
+  "nodes": [
+    {
+      "node_id": "monitor",
+      "action": "clawx_monitor",
+      "payload": {
+        "objective": "market alert monitoring",
+        "sources": [
+          "market_feed"
+        ],
+        "task_type": "once"
+      }
+    },
+    {
+      "node_id": "summary",
+      "action": "model_infer",
+      "payload": {
+        "model_route": {
+          "backend": "local",
+          "max_latency_ms": 1000,
+          "max_tokens": 256,
+          "model": "local-small",
+          "reason": "graph_summary"
+        },
+        "prompt": "Summarize the latest market alert."
+      }
+    },
+    {
+      "node_id": "notify",
+      "action": "notify",
+      "payload": {
+        "channel": "telegram",
+        "message": "Market alert ready"
+      }
+    }
+  ]
+}

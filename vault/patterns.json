@@ -1,0 +1,15 @@
+{
+  "routes": {
+    "monitor_sec_filings": "clawx_monitor",
+    "scrape_news_feed": "clawx_scrape",
+    "push_bulletin": "clawx_push",
+    "ping": "echo"
+  },
+  "capabilities": {
+    "clawx": {
+      "version": "1.0.0",
+      "bridge": "http://localhost:3000",
+      "channels": ["telegram", "discord"]
+    }
+  }
+}

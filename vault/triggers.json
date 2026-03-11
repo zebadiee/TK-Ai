@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "condition": {
+        "change_pct_gt": 3
+      },
+      "event_type": "market_move",
+      "graph_id": "market_alert_graph"
+    },
+    {
+      "condition": {
+        "hour": 9
+      },
+      "event_type": "schedule_tick",
+      "graph_id": "market_alert_graph"
+    }
+  ]
+}
