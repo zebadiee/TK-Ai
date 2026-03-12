@@ -1,0 +1,14 @@
+{
+  "jobs": [
+    {
+      "id": "btc-funding-watch",
+      "schedule": "*/5 * * * *",
+      "intent": "monitor btc funding rates"
+    },
+    {
+      "id": "eth-market-summary",
+      "schedule": "0 * * * *",
+      "intent": "summarise ethereum market activity"
+    }
+  ]
+}

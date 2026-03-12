@@ -1,0 +1,13 @@
+{
+  "acme_btc_funding_watch": {
+    "active": "acme_btc_funding_watch_v1",
+    "experimental": [],
+    "failure_count": 0,
+    "history": [
+      "acme_btc_funding_watch_v1"
+    ],
+    "versions": [
+      "acme_btc_funding_watch_v1"
+    ]
+  }
+}

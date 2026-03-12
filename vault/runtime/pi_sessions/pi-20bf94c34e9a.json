@@ -1,0 +1,24 @@
+{
+  "session_id": "pi-20bf94c34e9a",
+  "user_mood": "calm",
+  "snapshot_label": "",
+  "mode": "serious",
+  "started_at": 1773352172.970031,
+  "entries": [
+    {
+      "ts": 1773352173.085063,
+      "user_text": "run filesystem inventory",
+      "skills": [
+        "filesystem-inventory"
+      ],
+      "nodes": [
+        "HADES",
+        "HERMES",
+        "ATLAS"
+      ],
+      "model_tier": "local_free",
+      "success": true,
+      "summary": "\u2713 Snapshot created: 20260312T214933Z\n  Label: snapshot-20260312T214933Z\n  Files captured: 58\n    - skills: 14 files\n    - tools: 40 files"
+    }
+  ]
+}

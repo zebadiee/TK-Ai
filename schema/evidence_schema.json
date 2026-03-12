@@ -1,0 +1,59 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "TK-AI Evidence Record",
+  "type": "object",
+  "required": [
+    "type",
+    "signal_id",
+    "root_cause",
+    "severity",
+    "confidence",
+    "recommended_action",
+    "agent",
+    "node",
+    "model",
+    "timestamp"
+  ],
+  "properties": {
+    "type": {
+      "const": "llm_analysis"
+    },
+    "signal_id": {
+      "type": "string"
+    },
+    "root_cause": {
+      "type": "string"
+    },
+    "severity": {
+      "type": "string",
+      "enum": ["low", "medium", "high", "critical", "unknown"]
+    },
+    "confidence": {
+      "type": "number",
+      "minimum": 0.0,
+      "maximum": 1.0
+    },
+    "recommended_action": {
+      "type": "string"
+    },
+    "agent": {
+      "type": "string"
+    },
+    "node": {
+      "type": "string",
+      "enum": ["atlas", "hermes", "hades", "unknown"]
+    },
+    "model": {
+      "type": "string"
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "source": {
+      "type": "string",
+      "enum": ["atlas_ollama", "router"]
+    }
+  },
+  "additionalProperties": false
+}

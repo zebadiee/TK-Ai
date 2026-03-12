@@ -1,0 +1,18 @@
+{
+  "session_id": "pi-4ef68a2b7b0d",
+  "user_mood": "calm",
+  "snapshot_label": "",
+  "mode": "serious",
+  "started_at": 1773351707.4190755,
+  "entries": [
+    {
+      "ts": 1773351707.419486,
+      "user_text": "deploy the nuclear codes",
+      "skills": [],
+      "nodes": [],
+      "model_tier": "free",
+      "success": false,
+      "summary": "no_matching_skill"
+    }
+  ]
+}

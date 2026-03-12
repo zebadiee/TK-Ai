@@ -1,0 +1,20 @@
+mission: clawx_cluster_cartography
+
+objective:
+  Discover scripts, modules, services, and tools across the cluster.
+
+targets:
+  - hades
+  - atlas
+  - hermes
+
+scan_paths:
+  - ~/TK-Ai-Maxx
+  - ~/projects
+  - ~/scripts
+  - ~/tools
+
+artifacts:
+  cluster_map: vault/runtime/cluster_map.json
+  skill_candidates: vault/runtime/skill_candidates.json
+  agent_candidates: vault/runtime/agent_candidates.json

@@ -56,6 +56,18 @@ kernel.handle_intent({
 })
 ```
 
+Run the packaged example workload:
+
+```bash
+python examples/basic_run.py
+```
+
+Run the continuous scheduler example:
+
+```bash
+python examples/acme_ai/run_scheduler.py
+```
+
 ## Optional Model Support
 
 TK-Ai can optionally use local or remote models through the provider layer.
@@ -69,6 +81,87 @@ External tools can integrate through adapters that implement the async worker in
 - `submit_job(payload)`
 - `job_status(job_id)`
 - `job_result(job_id)`
+
+## Architecture Notes
+
+- [Evidence And ClawX Phase 1](docs/EVIDENCE_AND_CLAWX_PHASE1.md)
+- [First Evidence Run](docs/FIRST_EVIDENCE_RUN.md)
+
+## Knowledge Mirror
+
+Canonical entities live in [vault/entities/entities.json](/home/zebadiee/TK-Ai-Maxx/vault/entities/entities.json).
+Mirror them into Obsidian markdown pages with:
+
+```bash
+python tools/sync_entities_to_obsidian.py
+python tools/sync_tkai_knowledge_to_obsidian.py
+python tools/hades_assist_launcher.py
+```
+
+Global helpers available on HADES:
+
+```bash
+tkai-kickoff
+tkai-kickoff-scheduler
+tkai-launch
+tkai-try
+tkai-live
+tkai-start
+tkai-restart
+tkai-status
+tkai-stop
+tkai-logs
+tkai-policy-start
+tkai-policy-stop
+tkai-policy-restart
+tkai-policy-status
+tkai-policy-logs
+```
+
+Cross-node handshake or remote command execution:
+
+```bash
+python tools/cluster_exec.py --all
+python tools/cluster_exec.py atlas -- hostname
+```
+
+ACME integration health:
+
+```bash
+python tools/acme_integration_status.py
+python tools/cluster_doctor.py
+python tools/acme_runtime_sync.py
+```
+
+Canonical ACME/TK-Ai operator runbook:
+
+- [ACME and TK-Ai Interface](/home/zebadiee/TK-Ai-Maxx/docs/ACME_TKAI_INTERFACE.md)
+- [TK-Ai Snapshot Time Travel](/home/zebadiee/TK-Ai-Maxx/docs/TKAI_SNAPSHOT_TIME_TRAVEL.md)
+- [HADES Assist Model Policy](/home/zebadiee/TK-Ai-Maxx/docs/HADES_ASSIST_MODEL_POLICY.md)
+
+Mission Control summary:
+
+```bash
+python tools/tkai_mission_control.py
+```
+
+Canonical operator entrypoint:
+
+```bash
+tkai-launch
+```
+
+To force a ClawX sandbox probe first so the runtime signal stream is populated:
+
+```bash
+tkai-launch --probe-clawx
+```
+
+Global shortcut for that path on HADES:
+
+```bash
+tkai-try
+```
 
 ## Example Workflow
 

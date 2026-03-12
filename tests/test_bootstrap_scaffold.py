@@ -3,6 +3,7 @@ from kernel.graph_registry import GraphRegistry
 from kernel.graph_planner import GraphPlanner
 from kernel.kernel import Kernel
 from kernel.llm_graph_planner import LLMGraphPlanner
+from kernel.scheduler import WorkflowScheduler
 from kernel.task_graph import TaskGraphRunner
 from providers.async_worker_stub import AsyncWorkerStub
 from providers.base import BaseProvider
@@ -13,6 +14,7 @@ from hades.graph_planner import GraphPlanner as HadesGraphPlanner
 from hades.graph_registry import GraphRegistry as HadesGraphRegistry
 from hades.kernel import HadesKernel
 from hades.llm_graph_planner import LLMGraphPlanner as HadesLLMGraphPlanner
+from hades.scheduler import WorkflowScheduler as HadesWorkflowScheduler
 from hades.task_graph import TaskGraphRunner as HadesTaskGraphRunner
 
 
@@ -20,6 +22,7 @@ def test_kernel_facades_point_to_existing_runtime() -> None:
     assert Kernel is HadesKernel
     assert GraphPlanner is HadesGraphPlanner
     assert LLMGraphPlanner is HadesLLMGraphPlanner
+    assert WorkflowScheduler is HadesWorkflowScheduler
     assert GraphRegistry is HadesGraphRegistry
     assert GraphFitnessScorer is HadesGraphFitnessScorer
     assert TaskGraphRunner is HadesTaskGraphRunner

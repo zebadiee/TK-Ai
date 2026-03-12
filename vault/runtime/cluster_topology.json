@@ -1,0 +1,34 @@
+{
+  "nodes": {
+    "hades": {
+      "role": "control_plane",
+      "agents": [
+        "acme_dashboard",
+        "acme_governance",
+        "arch_scan",
+        "clawx_autonomy",
+        "clawx_console",
+        "cluster_doctor",
+        "investigation_agent",
+        "investigation_loop",
+        "test_clawx_console",
+        "test_cluster_doctor",
+        "test_tkai_policy_daemon",
+        "tkai_investigation_daemon",
+        "tkai_launch",
+        "tkai_mission_control",
+        "tkai_policy_daemon"
+      ]
+    },
+    "atlas": {
+      "role": "gpu_inference",
+      "agents": [
+        "atlas_inference"
+      ]
+    },
+    "hermes": {
+      "role": "infrastructure_backbone",
+      "agents": []
+    }
+  }
+}

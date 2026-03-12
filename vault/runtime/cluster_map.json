@@ -1,0 +1,1034 @@
+[
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/.github/ISSUE_TEMPLATE/adapter_request.md",
+    "type": ".md",
+    "size": 341
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/.github/ISSUE_TEMPLATE/bug_report.md",
+    "type": ".md",
+    "size": 320
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/.github/ISSUE_TEMPLATE/feature_request.md",
+    "type": ".md",
+    "size": 270
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/.github/workflows/tests.yml",
+    "type": ".yml",
+    "size": 690
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/.gitignore",
+    "type": "",
+    "size": 956
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/AGENTS.md",
+    "type": ".md",
+    "size": 2266
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/LICENSE",
+    "type": "",
+    "size": 35149
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/README.md",
+    "type": ".md",
+    "size": 2810
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/SYSTEM.md",
+    "type": ".md",
+    "size": 3832
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/adapters/README.md",
+    "type": ".md",
+    "size": 213
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/athena/__init__.py",
+    "type": ".py",
+    "size": 22
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/athena/interface.py",
+    "type": ".py",
+    "size": 358
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/atlas/__init__.py",
+    "type": ".py",
+    "size": 21
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/atlas/executor.py",
+    "type": ".py",
+    "size": 6186
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/atlas/proposers/__init__.py",
+    "type": ".py",
+    "size": 161
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/atlas/proposers/ollama_proposer.py",
+    "type": ".py",
+    "size": 2577
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/atlas/providers.py",
+    "type": ".py",
+    "size": 4052
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/cluster/cluster_config.json",
+    "type": ".json",
+    "size": 380
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/cluster/node_roles.json",
+    "type": ".json",
+    "size": 326
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/ct/__init__.py",
+    "type": ".py",
+    "size": 42
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/ct/skills/__init__.py",
+    "type": ".py",
+    "size": 56
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/ct/skills/agent_classifier.py",
+    "type": ".py",
+    "size": 1455
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/ct/skills/cluster_cartographer.py",
+    "type": ".py",
+    "size": 2151
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/ct/skills/skill_classifier.py",
+    "type": ".py",
+    "size": 1201
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/docs/EVIDENCE_AND_CLAWX_PHASE1.md",
+    "type": ".md",
+    "size": 3757
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/docs/FIRST_EVIDENCE_RUN.md",
+    "type": ".md",
+    "size": 3813
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/docs/TKAI_CLUSTER_ARCHITECTURE.md",
+    "type": ".md",
+    "size": 1356
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/docs/graphs.md",
+    "type": ".md",
+    "size": 243
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/examples/acme_ai/README.md",
+    "type": ".md",
+    "size": 695
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/examples/acme_ai/graph_index.json",
+    "type": ".json",
+    "size": 245
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/examples/acme_ai/run_scheduler.py",
+    "type": ".py",
+    "size": 628
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/examples/acme_ai/schedule.json",
+    "type": ".json",
+    "size": 273
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/examples/acme_ai/signals.json",
+    "type": ".json",
+    "size": 18
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/examples/acme_ai/solution_graph.json",
+    "type": ".json",
+    "size": 1438
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/examples/acme_ai/solution_graphs/acme_btc_funding_watch_v1.json",
+    "type": ".json",
+    "size": 1190
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/examples/acme_ai/triggers.json",
+    "type": ".json",
+    "size": 185
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/examples/basic_run.py",
+    "type": ".py",
+    "size": 3084
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/gateway/__init__.py",
+    "type": ".py",
+    "size": 201
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/gateway/evidence_reader.py",
+    "type": ".py",
+    "size": 1142
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/gateway/hermes_api.py",
+    "type": ".py",
+    "size": 1819
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/__init__.py",
+    "type": ".py",
+    "size": 21
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/budget.py",
+    "type": ".py",
+    "size": 3485
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/capabilities.py",
+    "type": ".py",
+    "size": 3679
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/graph_fitness.py",
+    "type": ".py",
+    "size": 4000
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/graph_planner.py",
+    "type": ".py",
+    "size": 5044
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/graph_registry.py",
+    "type": ".py",
+    "size": 6769
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/kernel.py",
+    "type": ".py",
+    "size": 27280
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/llm_graph_planner.py",
+    "type": ".py",
+    "size": 4867
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/model_router.py",
+    "type": ".py",
+    "size": 2381
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/patterns.py",
+    "type": ".py",
+    "size": 7822
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/router.py",
+    "type": ".py",
+    "size": 335
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/scheduler.py",
+    "type": ".py",
+    "size": 5365
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/semantic_capabilities.py",
+    "type": ".py",
+    "size": 2005
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/signals.py",
+    "type": ".py",
+    "size": 3992
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/task_graph.py",
+    "type": ".py",
+    "size": 5824
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/triggers.py",
+    "type": ".py",
+    "size": 2799
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/kernel/__init__.py",
+    "type": ".py",
+    "size": 1018
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/kernel/graph_fitness.py",
+    "type": ".py",
+    "size": 247
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/kernel/graph_planner.py",
+    "type": ".py",
+    "size": 116
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/kernel/graph_registry.py",
+    "type": ".py",
+    "size": 106
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/kernel/kernel.py",
+    "type": ".py",
+    "size": 171
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/kernel/llm_graph_planner.py",
+    "type": ".py",
+    "size": 128
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/kernel/scheduler.py",
+    "type": ".py",
+    "size": 121
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/kernel/task_graph.py",
+    "type": ".py",
+    "size": 260
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/kernel/triggers.py",
+    "type": ".py",
+    "size": 200
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/memory/__init__.py",
+    "type": ".py",
+    "size": 40
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/memory/obsidian_bridge/__init__.py",
+    "type": ".py",
+    "size": 149
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/memory/obsidian_bridge/entity_writer.py",
+    "type": ".py",
+    "size": 1711
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/missions/clawx_cluster_cartography.yaml",
+    "type": ".yaml",
+    "size": 398
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/__init__.py",
+    "type": ".py",
+    "size": 57
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/clawx_engine/__init__.py",
+    "type": ".py",
+    "size": 871
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/clawx_engine/anomaly_detector.py",
+    "type": ".py",
+    "size": 636
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/clawx_engine/clawx_console.py",
+    "type": ".py",
+    "size": 5813
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/clawx_engine/clawx_engine.py",
+    "type": ".py",
+    "size": 6114
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/clawx_engine/clawx_logger.py",
+    "type": ".py",
+    "size": 912
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/clawx_engine/clawx_subscriber.py",
+    "type": ".py",
+    "size": 624
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/clawx_engine/hypothesis_builder.py",
+    "type": ".py",
+    "size": 632
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/clawx_engine/scheduler_policy_rules.py",
+    "type": ".py",
+    "size": 3152
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/clawx_engine/scheduler_policy_writer.py",
+    "type": ".py",
+    "size": 1428
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/clawx_engine/signal_adapter.py",
+    "type": ".py",
+    "size": 938
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/clawx_engine/signal_writer.py",
+    "type": ".py",
+    "size": 742
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/investigation_engine/__init__.py",
+    "type": ".py",
+    "size": 60
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/investigation_engine/investigation_loop.py",
+    "type": ".py",
+    "size": 4168
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/investigation_engine/ollama_analyser.py",
+    "type": ".py",
+    "size": 3417
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/router/__init__.py",
+    "type": ".py",
+    "size": 431
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/router/model_router.py",
+    "type": ".py",
+    "size": 1766
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/providers/__init__.py",
+    "type": ".py",
+    "size": 405
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/providers/async_worker_stub.py",
+    "type": ".py",
+    "size": 1268
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/providers/base.py",
+    "type": ".py",
+    "size": 230
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/providers/ollama_provider.py",
+    "type": ".py",
+    "size": 2125
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/requirements.txt",
+    "type": ".txt",
+    "size": 64
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/sandbox/clawx_lab/simulate_evidence_stream.py",
+    "type": ".py",
+    "size": 1234
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/schema/evidence_schema.json",
+    "type": ".json",
+    "size": 1068
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/terminal/test_hades_ollama_loop.sh",
+    "type": ".sh",
+    "size": 2696
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/conftest.py",
+    "type": ".py",
+    "size": 180
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_bootstrap_scaffold.py",
+    "type": ".py",
+    "size": 1906
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_budget.py",
+    "type": ".py",
+    "size": 1450
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_capabilities.py",
+    "type": ".py",
+    "size": 2134
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_clawx_console.py",
+    "type": ".py",
+    "size": 2837
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_clawx_engine_module.py",
+    "type": ".py",
+    "size": 2394
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_clawx_flow.py",
+    "type": ".py",
+    "size": 1328
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_clawx_logger.py",
+    "type": ".py",
+    "size": 484
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_clawx_scheduler_policy.py",
+    "type": ".py",
+    "size": 3869
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_cluster_cartography.py",
+    "type": ".py",
+    "size": 3668
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_cluster_doctor.py",
+    "type": ".py",
+    "size": 2443
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_entity_writer.py",
+    "type": ".py",
+    "size": 1815
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_evidence_reader.py",
+    "type": ".py",
+    "size": 1278
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_examples.py",
+    "type": ".py",
+    "size": 1317
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_executor.py",
+    "type": ".py",
+    "size": 3687
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_graph_fitness.py",
+    "type": ".py",
+    "size": 1650
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_graph_planner.py",
+    "type": ".py",
+    "size": 3150
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_graph_registry.py",
+    "type": ".py",
+    "size": 3622
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_graphviz_render.py",
+    "type": ".py",
+    "size": 2393
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_hermes_insights_endpoint.py",
+    "type": ".py",
+    "size": 651
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_interface.py",
+    "type": ".py",
+    "size": 223
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_investigation_engine.py",
+    "type": ".py",
+    "size": 10344
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_investigation_model_router.py",
+    "type": ".py",
+    "size": 2116
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_kernel.py",
+    "type": ".py",
+    "size": 25146
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_llm_graph_planner.py",
+    "type": ".py",
+    "size": 3063
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_model_router.py",
+    "type": ".py",
+    "size": 1432
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_ollama_proposer.py",
+    "type": ".py",
+    "size": 1362
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_patterns.py",
+    "type": ".py",
+    "size": 3415
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_providers.py",
+    "type": ".py",
+    "size": 1004
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_router.py",
+    "type": ".py",
+    "size": 416
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_scheduler.py",
+    "type": ".py",
+    "size": 2313
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_semantic_capabilities.py",
+    "type": ".py",
+    "size": 1564
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_signal_writer.py",
+    "type": ".py",
+    "size": 625
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_signals.py",
+    "type": ".py",
+    "size": 1319
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_task_graph.py",
+    "type": ".py",
+    "size": 2541
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_tkai_policy_daemon.py",
+    "type": ".py",
+    "size": 2453
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_tkai_status_writer.py",
+    "type": ".py",
+    "size": 700
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_triggers.py",
+    "type": ".py",
+    "size": 711
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tkai_start.sh",
+    "type": ".sh",
+    "size": 330
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tools/cluster_doctor.py",
+    "type": ".py",
+    "size": 3254
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tools/graphviz_render.py",
+    "type": ".py",
+    "size": 3992
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tools/kickoff_phase1.py",
+    "type": ".py",
+    "size": 1924
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tools/load_cluster_env.py",
+    "type": ".py",
+    "size": 393
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tools/sync_entities_to_obsidian.py",
+    "type": ".py",
+    "size": 986
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tools/tkai_investigation_daemon.py",
+    "type": ".py",
+    "size": 924
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tools/tkai_launch.py",
+    "type": ".py",
+    "size": 3116
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tools/tkai_live.py",
+    "type": ".py",
+    "size": 798
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tools/tkai_mission_control.py",
+    "type": ".py",
+    "size": 2941
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tools/tkai_policy_daemon.py",
+    "type": ".py",
+    "size": 2595
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tools/tkai_status.py",
+    "type": ".py",
+    "size": 709
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tools/tkai_status_writer.py",
+    "type": ".py",
+    "size": 1727
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tools/tkai_stop.py",
+    "type": ".py",
+    "size": 812
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/vault/capabilities.json",
+    "type": ".json",
+    "size": 1385
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/vault/entities/entities.json",
+    "type": ".json",
+    "size": 362
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/vault/evidence/evidence.jsonl",
+    "type": ".jsonl",
+    "size": 4796
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/vault/graph_index.json",
+    "type": ".json",
+    "size": 229
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/vault/graph_metrics.json",
+    "type": ".json",
+    "size": 759
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/vault/pattern_index.json",
+    "type": ".json",
+    "size": 1255
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/vault/patterns.json",
+    "type": ".json",
+    "size": 315
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/vault/policy/scheduler_policy.json",
+    "type": ".json",
+    "size": 92
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/vault/research/entities/BINANCE.md",
+    "type": ".md",
+    "size": 199
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/vault/research/entities/BTC.md",
+    "type": ".md",
+    "size": 179
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/vault/runtime/agent_candidates.json",
+    "type": ".json",
+    "size": 1698
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/vault/runtime/agent_registry.json",
+    "type": ".json",
+    "size": 305
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/vault/runtime/clawx_log.jsonl",
+    "type": ".jsonl",
+    "size": 17297
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/vault/runtime/cluster_map.json",
+    "type": ".json",
+    "size": 67567
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/vault/runtime/cluster_status.json",
+    "type": ".json",
+    "size": 147
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/vault/runtime/processed_signals.json",
+    "type": ".json",
+    "size": 319
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/vault/runtime/signals.jsonl",
+    "type": ".jsonl",
+    "size": 5886
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/vault/runtime/skill_candidates.json",
+    "type": ".json",
+    "size": 14921
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/vault/signals.json",
+    "type": ".json",
+    "size": 241
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/vault/solution_graph.json",
+    "type": ".json",
+    "size": 1051
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/vault/solution_graphs/market_alert_graph_v1.json",
+    "type": ".json",
+    "size": 847
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/vault/state.json",
+    "type": ".json",
+    "size": 134103
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/vault/triggers.json",
+    "type": ".json",
+    "size": 301
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/scripts/exo_stub.py",
+    "type": ".py",
+    "size": 505
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/scripts/start_mad_os_stack.sh",
+    "type": ".sh",
+    "size": 3042
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/scripts/stop_mad_os_stack.sh",
+    "type": ".sh",
+    "size": 1249
+  }
+]

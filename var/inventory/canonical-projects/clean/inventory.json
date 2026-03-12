@@ -1,0 +1,2408 @@
+{
+  "entries": [
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": ".",
+      "tags": []
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": "acme-ai",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": "acme-ai/.acme-ai",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": "acme-ai/.github",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": "acme-ai/acme-ai-vscode",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": "acme-ai/acme_ai",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": "acme-ai/acme_ai.egg-info",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": "acme-ai/docs",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": "acme-ai/scripts",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/._.",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".acme-ai",
+      "kind": "file",
+      "path": "acme-ai/._.acme-ai",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".git",
+      "kind": "file",
+      "path": "acme-ai/._.git",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".github",
+      "kind": "file",
+      "path": "acme-ai/._.github",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".gitignore",
+      "kind": "file",
+      "path": "acme-ai/._.gitignore",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".md",
+      "kind": "file",
+      "path": "acme-ai/._README.md",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/._acme-ai-vscode",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/._acme_ai",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/._arch_scan.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/._docs",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/._mission_control_tui.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai",
+        "mission_control"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".toml",
+      "kind": "file",
+      "path": "acme-ai/._pyproject.toml",
+      "size_bytes": 163,
+      "tags": [
+        "ai",
+        "ml"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/._scripts",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/._simulate_hades.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".yaml",
+      "kind": "file",
+      "path": "acme-ai/._test_policy.yaml",
+      "size_bytes": 163,
+      "tags": [
+        ".yaml",
+        "ai",
+        "ml",
+        "policy"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/._venv",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/.gitignore",
+      "size_bytes": 182,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".md",
+      "kind": "file",
+      "path": "acme-ai/README.md",
+      "size_bytes": 2784,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/arch_scan.py",
+      "size_bytes": 1701,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/mission_control_tui.py",
+      "size_bytes": 4222,
+      "tags": [
+        "ai",
+        "mission_control"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".toml",
+      "kind": "file",
+      "path": "acme-ai/pyproject.toml",
+      "size_bytes": 373,
+      "tags": [
+        "ai",
+        "ml"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/simulate_hades.py",
+      "size_bytes": 2091,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".yaml",
+      "kind": "file",
+      "path": "acme-ai/test_policy.yaml",
+      "size_bytes": 296,
+      "tags": [
+        ".yaml",
+        "ai",
+        "ml",
+        "policy"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": "acme-ai/.acme-ai/hades",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": "acme-ai/.acme-ai/logs",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": "acme-ai/.acme-ai/repo",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "agents",
+      "kind": "directory",
+      "path": "acme-ai/.acme-ai/skills",
+      "tags": [
+        "ai",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/.acme-ai/._hades",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/.acme-ai/._logs",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/.acme-ai/._repo",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "agents",
+      "kind": "file",
+      "path": "acme-ai/.acme-ai/._skills",
+      "size_bytes": 163,
+      "tags": [
+        "ai",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".db",
+      "kind": "file",
+      "path": "acme-ai/.acme-ai/hades/._simulation_telemetry.db",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".json",
+      "kind": "file",
+      "path": "acme-ai/.acme-ai/hades/._simulation_telemetry.json",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".db",
+      "kind": "file",
+      "path": "acme-ai/.acme-ai/hades/simulation_telemetry.db",
+      "size_bytes": 20480,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".json",
+      "kind": "file",
+      "path": "acme-ai/.acme-ai/hades/simulation_telemetry.json",
+      "size_bytes": 1303,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "agents",
+      "kind": "directory",
+      "path": "acme-ai/.acme-ai/logs/skills",
+      "tags": [
+        "ai",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "agents",
+      "kind": "file",
+      "path": "acme-ai/.acme-ai/logs/._skills",
+      "size_bytes": 163,
+      "tags": [
+        "ai",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".jsonl",
+      "kind": "file",
+      "path": "acme-ai/.acme-ai/logs/skills/._EvolvingSkill_history.jsonl",
+      "size_bytes": 163,
+      "tags": [
+        "ai",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".jsonl",
+      "kind": "file",
+      "path": "acme-ai/.acme-ai/logs/skills/EvolvingSkill_history.jsonl",
+      "size_bytes": 1836,
+      "tags": [
+        "ai",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".json",
+      "kind": "file",
+      "path": "acme-ai/.acme-ai/repo/._arch-1b91b0c8.json",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".json",
+      "kind": "file",
+      "path": "acme-ai/.acme-ai/repo/._arch-e6bc6d3b.json",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".json",
+      "kind": "file",
+      "path": "acme-ai/.acme-ai/repo/._log.json",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".json",
+      "kind": "file",
+      "path": "acme-ai/.acme-ai/repo/arch-1b91b0c8.json",
+      "size_bytes": 9193,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".json",
+      "kind": "file",
+      "path": "acme-ai/.acme-ai/repo/arch-e6bc6d3b.json",
+      "size_bytes": 8937,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".json",
+      "kind": "file",
+      "path": "acme-ai/.acme-ai/repo/log.json",
+      "size_bytes": 378,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "agents",
+      "kind": "directory",
+      "path": "acme-ai/.acme-ai/skills/deprecated",
+      "tags": [
+        "ai",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "agents",
+      "kind": "directory",
+      "path": "acme-ai/.acme-ai/skills/experimental",
+      "tags": [
+        "ai",
+        "experiment",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "agents",
+      "kind": "directory",
+      "path": "acme-ai/.acme-ai/skills/stable",
+      "tags": [
+        "ai",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".json",
+      "kind": "file",
+      "path": "acme-ai/.acme-ai/skills/._CycleFix-V1.json",
+      "size_bytes": 163,
+      "tags": [
+        "ai",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "agents",
+      "kind": "file",
+      "path": "acme-ai/.acme-ai/skills/._deprecated",
+      "size_bytes": 163,
+      "tags": [
+        "ai",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "agents",
+      "kind": "file",
+      "path": "acme-ai/.acme-ai/skills/._experimental",
+      "size_bytes": 163,
+      "tags": [
+        "ai",
+        "experiment",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "agents",
+      "kind": "file",
+      "path": "acme-ai/.acme-ai/skills/._stable",
+      "size_bytes": 163,
+      "tags": [
+        "ai",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".json",
+      "kind": "file",
+      "path": "acme-ai/.acme-ai/skills/CycleFix-V1.json",
+      "size_bytes": 912,
+      "tags": [
+        "ai",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".json",
+      "kind": "file",
+      "path": "acme-ai/.acme-ai/skills/stable/._EvolvingSkill.json",
+      "size_bytes": 163,
+      "tags": [
+        "ai",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".json",
+      "kind": "file",
+      "path": "acme-ai/.acme-ai/skills/stable/EvolvingSkill.json",
+      "size_bytes": 243,
+      "tags": [
+        "ai",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": "acme-ai/.github/workflows",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/.github/._workflows",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".yml",
+      "kind": "file",
+      "path": "acme-ai/.github/workflows/._arch-guardian.yml",
+      "size_bytes": 163,
+      "tags": [
+        ".yml",
+        "ai",
+        "guard",
+        "guardian",
+        "ml"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".yml",
+      "kind": "file",
+      "path": "acme-ai/.github/workflows/arch-guardian.yml",
+      "size_bytes": 1510,
+      "tags": [
+        ".yml",
+        "ai",
+        "guard",
+        "guardian",
+        "ml"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": "acme-ai/acme-ai-vscode/resources",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": "acme-ai/acme-ai-vscode/src",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".json",
+      "kind": "file",
+      "path": "acme-ai/acme-ai-vscode/._package.json",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/acme-ai-vscode/._resources",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/acme-ai-vscode/._src",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".json",
+      "kind": "file",
+      "path": "acme-ai/acme-ai-vscode/package.json",
+      "size_bytes": 1010,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".ts",
+      "kind": "file",
+      "path": "acme-ai/acme-ai-vscode/src/._extension.ts",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".ts",
+      "kind": "file",
+      "path": "acme-ai/acme-ai-vscode/src/extension.ts",
+      "size_bytes": 4606,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": "acme-ai/acme_ai/api",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": "acme-ai/acme_ai/cli",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": "acme-ai/acme_ai/engine",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": "acme-ai/acme_ai/hades",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": "acme-ai/acme_ai/intelligence",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": "acme-ai/acme_ai/models",
+      "tags": [
+        "ai",
+        "model",
+        "models"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": "acme-ai/acme_ai/queries",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": "acme-ai/acme_ai/signals",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": "acme-ai/acme_ai/vcs",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/.___init__.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/.___pycache__",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/._api",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/._cli",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/._drift_trigger.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/._dummy_module.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/._engine",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/._hades",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/._intelligence",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/._models",
+      "size_bytes": 163,
+      "tags": [
+        "ai",
+        "model",
+        "models"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/._queries",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/._signals",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/._vcs",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/__init__.py",
+      "size_bytes": 0,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/drift_trigger.py",
+      "size_bytes": 331,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/dummy_module.py",
+      "size_bytes": 123,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/api/._autopilot.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/api/._hades.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/api/._main.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/api/._risk.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai",
+        "risk"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/api/autopilot.py",
+      "size_bytes": 1090,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/api/hades.py",
+      "size_bytes": 2724,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/api/main.py",
+      "size_bytes": 1254,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/api/risk.py",
+      "size_bytes": 1520,
+      "tags": [
+        "ai",
+        "risk"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/cli/.___init__.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/cli/.___pycache__",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/cli/._cockpit.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/cli/._commands.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/cli/._main.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/cli/__init__.py",
+      "size_bytes": 0,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/cli/cockpit.py",
+      "size_bytes": 5037,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/cli/commands.py",
+      "size_bytes": 5104,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/cli/main.py",
+      "size_bytes": 11192,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/engine/.___init__.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/engine/.___pycache__",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/engine/._ast_visitor.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/engine/._builder.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/engine/__init__.py",
+      "size_bytes": 0,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/engine/ast_visitor.py",
+      "size_bytes": 1440,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/engine/builder.py",
+      "size_bytes": 1713,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "agents",
+      "kind": "directory",
+      "path": "acme-ai/acme_ai/hades/skills",
+      "tags": [
+        "ai",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": "acme-ai/acme_ai/hades/tools",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/.___pycache__",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/._dynamic_discovery.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/._main.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/._notifications.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/._observe.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/._routing.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/._sandbox_runner.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai",
+        "sandbox"
+      ]
+    },
+    {
+      "domain": "agents",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/._skills",
+      "size_bytes": 163,
+      "tags": [
+        "ai",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/._telemetry.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/._tool_metadata.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/._tool_registry.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/._tools",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/._worker.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/dynamic_discovery.py",
+      "size_bytes": 1313,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/main.py",
+      "size_bytes": 2274,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/notifications.py",
+      "size_bytes": 2454,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/observe.py",
+      "size_bytes": 2432,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/routing.py",
+      "size_bytes": 2122,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/sandbox_runner.py",
+      "size_bytes": 1735,
+      "tags": [
+        "ai",
+        "sandbox"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/telemetry.py",
+      "size_bytes": 3249,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/tool_metadata.py",
+      "size_bytes": 489,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/tool_registry.py",
+      "size_bytes": 1658,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/worker.py",
+      "size_bytes": 3028,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "agents",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/skills/.___pycache__",
+      "size_bytes": 163,
+      "tags": [
+        "ai",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/skills/._registry.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/skills/._telemetry.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/skills/registry.py",
+      "size_bytes": 2533,
+      "tags": [
+        "ai",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/skills/telemetry.py",
+      "size_bytes": 1850,
+      "tags": [
+        "ai",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/tools/._cycle_fix_skill_v1.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai",
+        "skill"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/hades/tools/cycle_fix_skill_v1.py",
+      "size_bytes": 954,
+      "tags": [
+        "ai",
+        "skill"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/intelligence/.___init__.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/intelligence/.___pycache__",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/intelligence/._cognitive.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/intelligence/._evolution.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/intelligence/._fixer.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/intelligence/._reasoning.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/intelligence/._reporting.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/intelligence/._validation.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/intelligence/._vault_syncer.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/intelligence/__init__.py",
+      "size_bytes": 0,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/intelligence/cognitive.py",
+      "size_bytes": 5439,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/intelligence/evolution.py",
+      "size_bytes": 3795,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/intelligence/fixer.py",
+      "size_bytes": 4950,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/intelligence/reasoning.py",
+      "size_bytes": 4079,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/intelligence/reporting.py",
+      "size_bytes": 1169,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/intelligence/validation.py",
+      "size_bytes": 487,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/intelligence/vault_syncer.py",
+      "size_bytes": 1801,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/models/.___init__.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai",
+        "model",
+        "models"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/models/.___pycache__",
+      "size_bytes": 163,
+      "tags": [
+        "ai",
+        "model",
+        "models"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/models/._graph.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai",
+        "model",
+        "models"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/models/__init__.py",
+      "size_bytes": 0,
+      "tags": [
+        "ai",
+        "model",
+        "models"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/models/graph.py",
+      "size_bytes": 977,
+      "tags": [
+        "ai",
+        "model",
+        "models"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/queries/.___init__.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/queries/__init__.py",
+      "size_bytes": 0,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/signals/.___init__.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/signals/.___pycache__",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/signals/._cycle_source.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/signals/._cycle_target.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "governance",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/signals/._guardian.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai",
+        "guard",
+        "guardian"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/signals/._impact.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/signals/__init__.py",
+      "size_bytes": 0,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/signals/cycle_source.py",
+      "size_bytes": 66,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/signals/cycle_target.py",
+      "size_bytes": 66,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "governance",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/signals/guardian.py",
+      "size_bytes": 2204,
+      "tags": [
+        "ai",
+        "guard",
+        "guardian"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/signals/impact.py",
+      "size_bytes": 1196,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/vcs/.___init__.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/vcs/.___pycache__",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/vcs/._diff.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/vcs/._manager.py",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/vcs/__init__.py",
+      "size_bytes": 0,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/vcs/diff.py",
+      "size_bytes": 1431,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "acme-ai/acme_ai/vcs/manager.py",
+      "size_bytes": 2203,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/acme_ai.egg-info/PKG-INFO",
+      "size_bytes": 3118,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".txt",
+      "kind": "file",
+      "path": "acme-ai/acme_ai.egg-info/SOURCES.txt",
+      "size_bytes": 1496,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".txt",
+      "kind": "file",
+      "path": "acme-ai/acme_ai.egg-info/dependency_links.txt",
+      "size_bytes": 1,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".txt",
+      "kind": "file",
+      "path": "acme-ai/acme_ai.egg-info/entry_points.txt",
+      "size_bytes": 50,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".txt",
+      "kind": "file",
+      "path": "acme-ai/acme_ai.egg-info/requires.txt",
+      "size_bytes": 69,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".txt",
+      "kind": "file",
+      "path": "acme-ai/acme_ai.egg-info/top_level.txt",
+      "size_bytes": 8,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": "acme-ai/docs/vault",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".md",
+      "kind": "file",
+      "path": "acme-ai/docs/._ACME_ENGINE.md",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".md",
+      "kind": "file",
+      "path": "acme-ai/docs/._ARCHITECTURE.md",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".md",
+      "kind": "file",
+      "path": "acme-ai/docs/._CONTROL_PLANE.md",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".md",
+      "kind": "file",
+      "path": "acme-ai/docs/._GOVERNOR.md",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".md",
+      "kind": "file",
+      "path": "acme-ai/docs/._MISSION_CONTROL.md",
+      "size_bytes": 163,
+      "tags": [
+        "ai",
+        "mission_control"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".md",
+      "kind": "file",
+      "path": "acme-ai/docs/._OPERATIONS.md",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "file",
+      "path": "acme-ai/docs/._vault",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".md",
+      "kind": "file",
+      "path": "acme-ai/docs/ACME_ENGINE.md",
+      "size_bytes": 700,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".md",
+      "kind": "file",
+      "path": "acme-ai/docs/ARCHITECTURE.md",
+      "size_bytes": 1095,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".md",
+      "kind": "file",
+      "path": "acme-ai/docs/CONTROL_PLANE.md",
+      "size_bytes": 613,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".md",
+      "kind": "file",
+      "path": "acme-ai/docs/GOVERNOR.md",
+      "size_bytes": 3219,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".md",
+      "kind": "file",
+      "path": "acme-ai/docs/MISSION_CONTROL.md",
+      "size_bytes": 664,
+      "tags": [
+        "ai",
+        "mission_control"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".md",
+      "kind": "file",
+      "path": "acme-ai/docs/OPERATIONS.md",
+      "size_bytes": 1615,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "agents",
+      "kind": "directory",
+      "path": "acme-ai/docs/vault/skills",
+      "tags": [
+        "ai",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "agents",
+      "kind": "file",
+      "path": "acme-ai/docs/vault/._skills",
+      "size_bytes": 163,
+      "tags": [
+        "ai",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".md",
+      "kind": "file",
+      "path": "acme-ai/docs/vault/skills/._EvolvingSkill.md",
+      "size_bytes": 163,
+      "tags": [
+        "ai",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".md",
+      "kind": "file",
+      "path": "acme-ai/docs/vault/skills/EvolvingSkill.md",
+      "size_bytes": 530,
+      "tags": [
+        "ai",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".sh",
+      "kind": "file",
+      "path": "acme-ai/scripts/.__runtime_config.sh",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".sh",
+      "kind": "file",
+      "path": "acme-ai/scripts/._doctor.sh",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".sh",
+      "kind": "file",
+      "path": "acme-ai/scripts/._mission_control.sh",
+      "size_bytes": 163,
+      "tags": [
+        "ai",
+        "mission_control"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".sh",
+      "kind": "file",
+      "path": "acme-ai/scripts/._run_acme_ai.sh",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".sh",
+      "kind": "file",
+      "path": "acme-ai/scripts/._start_stack.sh",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".sh",
+      "kind": "file",
+      "path": "acme-ai/scripts/._system_check.sh",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".sh",
+      "kind": "file",
+      "path": "acme-ai/scripts/._update_repo.sh",
+      "size_bytes": 163,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".sh",
+      "kind": "file",
+      "path": "acme-ai/scripts/_runtime_config.sh",
+      "size_bytes": 464,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".sh",
+      "kind": "file",
+      "path": "acme-ai/scripts/doctor.sh",
+      "size_bytes": 754,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".sh",
+      "kind": "file",
+      "path": "acme-ai/scripts/mission_control.sh",
+      "size_bytes": 167,
+      "tags": [
+        "ai",
+        "mission_control"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".sh",
+      "kind": "file",
+      "path": "acme-ai/scripts/run_acme_ai.sh",
+      "size_bytes": 424,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".sh",
+      "kind": "file",
+      "path": "acme-ai/scripts/start_stack.sh",
+      "size_bytes": 1001,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".sh",
+      "kind": "file",
+      "path": "acme-ai/scripts/system_check.sh",
+      "size_bytes": 749,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".sh",
+      "kind": "file",
+      "path": "acme-ai/scripts/update_repo.sh",
+      "size_bytes": 429,
+      "tags": [
+        "ai"
+      ]
+    }
+  ],
+  "generated_at": "2026-03-12T20:07:31.378057+00:00",
+  "ignore_patterns": [
+    ".git",
+    "__pycache__",
+    "node_modules",
+    ".venv",
+    "venv",
+    "*.pyc",
+    ".pytest_cache",
+    ".mypy_cache"
+  ],
+  "root": "/home/zebadiee/clean",
+  "summary": {
+    "by_domain": {
+      "agents": {
+        "directories": 7,
+        "files": 28
+      },
+      "ai": {
+        "directories": 25,
+        "files": 174
+      },
+      "governance": {
+        "directories": 0,
+        "files": 2
+      },
+      "misc": {
+        "directories": 1,
+        "files": 0
+      }
+    },
+    "directories": 33,
+    "entries": 237,
+    "files": 204,
+    "top_level": {
+      "acme-ai": {
+        "directories": 32,
+        "files": 204
+      }
+    }
+  }
+}

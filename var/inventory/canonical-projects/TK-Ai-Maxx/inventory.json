@@ -1,0 +1,2510 @@
+{
+  "entries": [
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": ".",
+      "tags": []
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": ".acme-ai",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": ".github",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "adapters",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "athena",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "atlas",
+      "tags": []
+    },
+    {
+      "domain": "infra",
+      "kind": "directory",
+      "path": "cluster",
+      "tags": [
+        "cluster"
+      ]
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "ct",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "docs",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "examples",
+      "tags": []
+    },
+    {
+      "domain": "infra",
+      "kind": "directory",
+      "path": "gateway",
+      "tags": [
+        "gateway"
+      ]
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "hades",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "kernel",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "memory",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "missions",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "modules",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "providers",
+      "tags": []
+    },
+    {
+      "domain": "experiments",
+      "kind": "directory",
+      "path": "sandbox",
+      "tags": [
+        "sandbox"
+      ]
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "schema",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "terminal",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "tests",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "tools",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "var",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "vault",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "file",
+      "path": ".gitignore",
+      "size_bytes": 1028,
+      "tags": []
+    },
+    {
+      "domain": "agents",
+      "extension": ".md",
+      "kind": "file",
+      "path": "AGENTS.md",
+      "size_bytes": 2266,
+      "tags": [
+        "agent",
+        "agents"
+      ]
+    },
+    {
+      "domain": "infra",
+      "extension": ".md",
+      "kind": "file",
+      "path": "CLUSTER_STATUS.md",
+      "size_bytes": 7652,
+      "tags": [
+        "cluster"
+      ]
+    },
+    {
+      "domain": "misc",
+      "kind": "file",
+      "path": "LICENSE",
+      "size_bytes": 35149,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".md",
+      "kind": "file",
+      "path": "README.md",
+      "size_bytes": 3225,
+      "tags": []
+    },
+    {
+      "domain": "infra",
+      "extension": ".md",
+      "kind": "file",
+      "path": "SSH_SETUP.md",
+      "size_bytes": 3687,
+      "tags": [
+        "ssh"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".md",
+      "kind": "file",
+      "path": "SYSTEM.md",
+      "size_bytes": 3832,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".txt",
+      "kind": "file",
+      "path": "requirements.txt",
+      "size_bytes": 64,
+      "tags": []
+    },
+    {
+      "domain": "ai",
+      "extension": ".sh",
+      "kind": "file",
+      "path": "tkai_start.sh",
+      "size_bytes": 330,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": ".github/ISSUE_TEMPLATE",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": ".github/workflows",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".md",
+      "kind": "file",
+      "path": ".github/ISSUE_TEMPLATE/adapter_request.md",
+      "size_bytes": 341,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".md",
+      "kind": "file",
+      "path": ".github/ISSUE_TEMPLATE/bug_report.md",
+      "size_bytes": 320,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".md",
+      "kind": "file",
+      "path": ".github/ISSUE_TEMPLATE/feature_request.md",
+      "size_bytes": 270,
+      "tags": []
+    },
+    {
+      "domain": "infra",
+      "extension": ".yml",
+      "kind": "file",
+      "path": ".github/workflows/tests.yml",
+      "size_bytes": 690,
+      "tags": [
+        ".yml",
+        "ml"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".md",
+      "kind": "file",
+      "path": "adapters/README.md",
+      "size_bytes": 213,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "athena/__init__.py",
+      "size_bytes": 22,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "athena/interface.py",
+      "size_bytes": 358,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "atlas/proposers",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "atlas/__init__.py",
+      "size_bytes": 21,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "atlas/executor.py",
+      "size_bytes": 6186,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "atlas/providers.py",
+      "size_bytes": 4052,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "atlas/proposers/__init__.py",
+      "size_bytes": 161,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "atlas/proposers/ollama_proposer.py",
+      "size_bytes": 2577,
+      "tags": []
+    },
+    {
+      "domain": "infra",
+      "extension": ".json",
+      "kind": "file",
+      "path": "cluster/cluster_config.json",
+      "size_bytes": 380,
+      "tags": [
+        "cluster"
+      ]
+    },
+    {
+      "domain": "infra",
+      "extension": ".json",
+      "kind": "file",
+      "path": "cluster/node_roles.json",
+      "size_bytes": 409,
+      "tags": [
+        "cluster"
+      ]
+    },
+    {
+      "domain": "agents",
+      "kind": "directory",
+      "path": "ct/skills",
+      "tags": [
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "ct/__init__.py",
+      "size_bytes": 42,
+      "tags": []
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "ct/skills/__init__.py",
+      "size_bytes": 56,
+      "tags": [
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "ct/skills/agent_classifier.py",
+      "size_bytes": 1455,
+      "tags": [
+        "agent",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "ct/skills/cluster_cartographer.py",
+      "size_bytes": 2675,
+      "tags": [
+        "cluster",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "ct/skills/cluster_scan_remote.py",
+      "size_bytes": 1651,
+      "tags": [
+        "cluster",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "ct/skills/export_cluster_to_obsidian.py",
+      "size_bytes": 1424,
+      "tags": [
+        "cluster",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "ct/skills/promote_agents.py",
+      "size_bytes": 1393,
+      "tags": [
+        "agent",
+        "agents",
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "ct/skills/skill_classifier.py",
+      "size_bytes": 1201,
+      "tags": [
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".md",
+      "kind": "file",
+      "path": "docs/ACME_TKAI_INTERFACE.md",
+      "size_bytes": 3734,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "infra",
+      "extension": ".md",
+      "kind": "file",
+      "path": "docs/CLUSTER_SSH_CONNECTIVITY.md",
+      "size_bytes": 1899,
+      "tags": [
+        "cluster",
+        "ssh"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".md",
+      "kind": "file",
+      "path": "docs/EVIDENCE_AND_CLAWX_PHASE1.md",
+      "size_bytes": 3757,
+      "tags": [
+        "clawx"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".md",
+      "kind": "file",
+      "path": "docs/FIRST_EVIDENCE_RUN.md",
+      "size_bytes": 3813,
+      "tags": []
+    },
+    {
+      "domain": "ai",
+      "extension": ".md",
+      "kind": "file",
+      "path": "docs/TKAI_CLUSTER_ARCHITECTURE.md",
+      "size_bytes": 2432,
+      "tags": [
+        "ai",
+        "cluster"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".md",
+      "kind": "file",
+      "path": "docs/graphs.md",
+      "size_bytes": 243,
+      "tags": []
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": "examples/acme_ai",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "examples/basic_run.py",
+      "size_bytes": 3084,
+      "tags": []
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": "examples/acme_ai/solution_graphs",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".md",
+      "kind": "file",
+      "path": "examples/acme_ai/README.md",
+      "size_bytes": 695,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".json",
+      "kind": "file",
+      "path": "examples/acme_ai/graph_index.json",
+      "size_bytes": 245,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "examples/acme_ai/run_scheduler.py",
+      "size_bytes": 628,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".json",
+      "kind": "file",
+      "path": "examples/acme_ai/schedule.json",
+      "size_bytes": 273,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".json",
+      "kind": "file",
+      "path": "examples/acme_ai/signals.json",
+      "size_bytes": 18,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".json",
+      "kind": "file",
+      "path": "examples/acme_ai/solution_graph.json",
+      "size_bytes": 1438,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".json",
+      "kind": "file",
+      "path": "examples/acme_ai/triggers.json",
+      "size_bytes": 185,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".json",
+      "kind": "file",
+      "path": "examples/acme_ai/solution_graphs/acme_btc_funding_watch_v1.json",
+      "size_bytes": 1190,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "infra",
+      "extension": ".py",
+      "kind": "file",
+      "path": "gateway/__init__.py",
+      "size_bytes": 201,
+      "tags": [
+        "gateway"
+      ]
+    },
+    {
+      "domain": "infra",
+      "extension": ".py",
+      "kind": "file",
+      "path": "gateway/evidence_reader.py",
+      "size_bytes": 1142,
+      "tags": [
+        "gateway"
+      ]
+    },
+    {
+      "domain": "infra",
+      "extension": ".py",
+      "kind": "file",
+      "path": "gateway/hermes_api.py",
+      "size_bytes": 1819,
+      "tags": [
+        "gateway"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "hades/__init__.py",
+      "size_bytes": 21,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "hades/budget.py",
+      "size_bytes": 3485,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "hades/capabilities.py",
+      "size_bytes": 3679,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "hades/graph_fitness.py",
+      "size_bytes": 4000,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "hades/graph_planner.py",
+      "size_bytes": 5044,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "hades/graph_registry.py",
+      "size_bytes": 6769,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "hades/kernel.py",
+      "size_bytes": 27280,
+      "tags": []
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "hades/llm_graph_planner.py",
+      "size_bytes": 4867,
+      "tags": [
+        "llm"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "hades/model_router.py",
+      "size_bytes": 2381,
+      "tags": [
+        "model"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "hades/patterns.py",
+      "size_bytes": 7822,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "hades/router.py",
+      "size_bytes": 335,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "hades/scheduler.py",
+      "size_bytes": 5365,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "hades/semantic_capabilities.py",
+      "size_bytes": 2005,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "hades/signals.py",
+      "size_bytes": 3992,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "hades/task_graph.py",
+      "size_bytes": 5824,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "hades/triggers.py",
+      "size_bytes": 2799,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "kernel/__init__.py",
+      "size_bytes": 1018,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "kernel/graph_fitness.py",
+      "size_bytes": 247,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "kernel/graph_planner.py",
+      "size_bytes": 116,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "kernel/graph_registry.py",
+      "size_bytes": 106,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "kernel/kernel.py",
+      "size_bytes": 171,
+      "tags": []
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "kernel/llm_graph_planner.py",
+      "size_bytes": 128,
+      "tags": [
+        "llm"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "kernel/scheduler.py",
+      "size_bytes": 121,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "kernel/task_graph.py",
+      "size_bytes": 260,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "kernel/triggers.py",
+      "size_bytes": 200,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "memory/obsidian_bridge",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "memory/__init__.py",
+      "size_bytes": 40,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "memory/obsidian_bridge/__init__.py",
+      "size_bytes": 149,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "memory/obsidian_bridge/entity_writer.py",
+      "size_bytes": 1711,
+      "tags": []
+    },
+    {
+      "domain": "infra",
+      "extension": ".yaml",
+      "kind": "file",
+      "path": "missions/clawx_cluster_cartography.yaml",
+      "size_bytes": 398,
+      "tags": [
+        ".yaml",
+        "clawx",
+        "cluster",
+        "ml"
+      ]
+    },
+    {
+      "domain": "agents",
+      "kind": "directory",
+      "path": "modules/clawx_engine",
+      "tags": [
+        "clawx"
+      ]
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "modules/investigation_engine",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "modules/router",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "modules/__init__.py",
+      "size_bytes": 57,
+      "tags": []
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "modules/clawx_engine/__init__.py",
+      "size_bytes": 871,
+      "tags": [
+        "clawx"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "modules/clawx_engine/anomaly_detector.py",
+      "size_bytes": 636,
+      "tags": [
+        "clawx"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "modules/clawx_engine/clawx_console.py",
+      "size_bytes": 10439,
+      "tags": [
+        "clawx"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "modules/clawx_engine/clawx_engine.py",
+      "size_bytes": 6114,
+      "tags": [
+        "clawx"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "modules/clawx_engine/clawx_logger.py",
+      "size_bytes": 912,
+      "tags": [
+        "clawx"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "modules/clawx_engine/clawx_subscriber.py",
+      "size_bytes": 624,
+      "tags": [
+        "clawx"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "modules/clawx_engine/hypothesis_builder.py",
+      "size_bytes": 632,
+      "tags": [
+        "clawx"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "modules/clawx_engine/scheduler_policy_rules.py",
+      "size_bytes": 3152,
+      "tags": [
+        "clawx",
+        "policy"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "modules/clawx_engine/scheduler_policy_writer.py",
+      "size_bytes": 1428,
+      "tags": [
+        "clawx",
+        "policy"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "modules/clawx_engine/signal_adapter.py",
+      "size_bytes": 938,
+      "tags": [
+        "clawx"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "modules/clawx_engine/signal_writer.py",
+      "size_bytes": 742,
+      "tags": [
+        "clawx"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "modules/investigation_engine/__init__.py",
+      "size_bytes": 60,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "modules/investigation_engine/investigation_loop.py",
+      "size_bytes": 4212,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "modules/investigation_engine/ollama_analyser.py",
+      "size_bytes": 4209,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "modules/router/__init__.py",
+      "size_bytes": 431,
+      "tags": []
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "modules/router/model_router.py",
+      "size_bytes": 1766,
+      "tags": [
+        "model"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "providers/__init__.py",
+      "size_bytes": 405,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "providers/async_worker_stub.py",
+      "size_bytes": 1268,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "providers/base.py",
+      "size_bytes": 230,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "providers/ollama_provider.py",
+      "size_bytes": 2125,
+      "tags": []
+    },
+    {
+      "domain": "experiments",
+      "kind": "directory",
+      "path": "sandbox/clawx_lab",
+      "tags": [
+        "clawx",
+        "lab",
+        "sandbox"
+      ]
+    },
+    {
+      "domain": "experiments",
+      "extension": ".py",
+      "kind": "file",
+      "path": "sandbox/clawx_lab/simulate_evidence_stream.py",
+      "size_bytes": 1234,
+      "tags": [
+        "clawx",
+        "lab",
+        "sandbox"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".json",
+      "kind": "file",
+      "path": "schema/evidence_schema.json",
+      "size_bytes": 1126,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".sh",
+      "kind": "file",
+      "path": "terminal/test_hades_ollama_loop.sh",
+      "size_bytes": 2696,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/conftest.py",
+      "size_bytes": 180,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_acme_integration_status.py",
+      "size_bytes": 4357,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_acme_runtime_sync.py",
+      "size_bytes": 2164,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_acme_signal_bridge.py",
+      "size_bytes": 2288,
+      "tags": []
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_atlas_inference_agent.py",
+      "size_bytes": 1680,
+      "tags": [
+        "agent",
+        "inference"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_bootstrap_scaffold.py",
+      "size_bytes": 1906,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_budget.py",
+      "size_bytes": 1450,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_capabilities.py",
+      "size_bytes": 2134,
+      "tags": []
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_clawx_autonomy.py",
+      "size_bytes": 3086,
+      "tags": [
+        "autonomy",
+        "clawx"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_clawx_burnin.py",
+      "size_bytes": 5250,
+      "tags": [
+        "clawx"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_clawx_console.py",
+      "size_bytes": 4808,
+      "tags": [
+        "clawx"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_clawx_engine_module.py",
+      "size_bytes": 2394,
+      "tags": [
+        "clawx"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_clawx_flow.py",
+      "size_bytes": 1328,
+      "tags": [
+        "clawx"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_clawx_logger.py",
+      "size_bytes": 484,
+      "tags": [
+        "clawx"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_clawx_scheduler.py",
+      "size_bytes": 3220,
+      "tags": [
+        "clawx"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_clawx_scheduler_missions.py",
+      "size_bytes": 2393,
+      "tags": [
+        "clawx"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_clawx_scheduler_policy.py",
+      "size_bytes": 3869,
+      "tags": [
+        "clawx",
+        "policy"
+      ]
+    },
+    {
+      "domain": "infra",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_cluster_cartography.py",
+      "size_bytes": 3668,
+      "tags": [
+        "cluster"
+      ]
+    },
+    {
+      "domain": "infra",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_cluster_doctor.py",
+      "size_bytes": 3291,
+      "tags": [
+        "cluster"
+      ]
+    },
+    {
+      "domain": "infra",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_cluster_exec.py",
+      "size_bytes": 2502,
+      "tags": [
+        "cluster"
+      ]
+    },
+    {
+      "domain": "infra",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_cluster_registry.py",
+      "size_bytes": 3668,
+      "tags": [
+        "cluster"
+      ]
+    },
+    {
+      "domain": "infra",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_cluster_scan_remote.py",
+      "size_bytes": 2310,
+      "tags": [
+        "cluster"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_discover_agents.py",
+      "size_bytes": 1885,
+      "tags": [
+        "agent",
+        "agents"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_entity_writer.py",
+      "size_bytes": 1815,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_evidence_reader.py",
+      "size_bytes": 1278,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_examples.py",
+      "size_bytes": 1317,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_executor.py",
+      "size_bytes": 3687,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_generate_topology.py",
+      "size_bytes": 3522,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_graph_fitness.py",
+      "size_bytes": 1650,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_graph_planner.py",
+      "size_bytes": 3150,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_graph_registry.py",
+      "size_bytes": 3622,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_graphviz_render.py",
+      "size_bytes": 2393,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_hermes_insights_endpoint.py",
+      "size_bytes": 651,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_interface.py",
+      "size_bytes": 223,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_investigation_engine.py",
+      "size_bytes": 11370,
+      "tags": []
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_investigation_model_router.py",
+      "size_bytes": 2116,
+      "tags": [
+        "model"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_invoke_agent.py",
+      "size_bytes": 3729,
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_kernel.py",
+      "size_bytes": 25146,
+      "tags": []
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_llm_graph_planner.py",
+      "size_bytes": 3063,
+      "tags": [
+        "llm"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_model_router.py",
+      "size_bytes": 1432,
+      "tags": [
+        "model"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_ollama_proposer.py",
+      "size_bytes": 1362,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_patterns.py",
+      "size_bytes": 3415,
+      "tags": []
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_promote_agent.py",
+      "size_bytes": 1954,
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_providers.py",
+      "size_bytes": 1004,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_router.py",
+      "size_bytes": 416,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_scheduler.py",
+      "size_bytes": 2313,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_semantic_capabilities.py",
+      "size_bytes": 1564,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_signal_writer.py",
+      "size_bytes": 625,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_signals.py",
+      "size_bytes": 1319,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_task_graph.py",
+      "size_bytes": 2541,
+      "tags": []
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_tkai_mission_control_tui.py",
+      "size_bytes": 681,
+      "tags": [
+        "ai",
+        "mission_control"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_tkai_navigation.py",
+      "size_bytes": 2793,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_tkai_policy_daemon.py",
+      "size_bytes": 2453,
+      "tags": [
+        "ai",
+        "policy"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_tkai_status_writer.py",
+      "size_bytes": 1765,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_tkai_ui.py",
+      "size_bytes": 2669,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_triggers.py",
+      "size_bytes": 711,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/acme_integration_status.py",
+      "size_bytes": 5325,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/acme_runtime_sync.py",
+      "size_bytes": 3438,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/acme_signal_bridge.py",
+      "size_bytes": 3178,
+      "tags": []
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/atlas_inference_agent.py",
+      "size_bytes": 1190,
+      "tags": [
+        "agent",
+        "inference"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/clawx_autonomy.py",
+      "size_bytes": 4833,
+      "tags": [
+        "autonomy",
+        "clawx"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/clawx_burnin.py",
+      "size_bytes": 9267,
+      "tags": [
+        "clawx"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/clawx_scheduler.py",
+      "size_bytes": 5226,
+      "tags": [
+        "clawx"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/clawx_scheduler_loop.py",
+      "size_bytes": 226,
+      "tags": [
+        "clawx"
+      ]
+    },
+    {
+      "domain": "infra",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/cluster_doctor.py",
+      "size_bytes": 3727,
+      "tags": [
+        "cluster"
+      ]
+    },
+    {
+      "domain": "infra",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/cluster_exec.py",
+      "size_bytes": 4037,
+      "tags": [
+        "cluster"
+      ]
+    },
+    {
+      "domain": "infra",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/cluster_registry.py",
+      "size_bytes": 6608,
+      "tags": [
+        "cluster"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/discover_agents.py",
+      "size_bytes": 2710,
+      "tags": [
+        "agent",
+        "agents"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/generate_topology.py",
+      "size_bytes": 1907,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/graphviz_render.py",
+      "size_bytes": 3992,
+      "tags": []
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/invoke_agent.py",
+      "size_bytes": 2543,
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/kickoff_phase1.py",
+      "size_bytes": 1924,
+      "tags": []
+    },
+    {
+      "domain": "infra",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/load_cluster_env.py",
+      "size_bytes": 436,
+      "tags": [
+        "cluster"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/load_topology.py",
+      "size_bytes": 480,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/mission_runner.py",
+      "size_bytes": 3125,
+      "tags": []
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/promote_agent.py",
+      "size_bytes": 1424,
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/sync_entities_to_obsidian.py",
+      "size_bytes": 986,
+      "tags": []
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/tkai_investigation_daemon.py",
+      "size_bytes": 924,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/tkai_launch.py",
+      "size_bytes": 3116,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/tkai_live.py",
+      "size_bytes": 798,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/tkai_map.py",
+      "size_bytes": 1049,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/tkai_mission_control.py",
+      "size_bytes": 2941,
+      "tags": [
+        "ai",
+        "mission_control"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/tkai_mission_control_tui.py",
+      "size_bytes": 1215,
+      "tags": [
+        "ai",
+        "mission_control"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/tkai_navigate.py",
+      "size_bytes": 6116,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/tkai_policy_daemon.py",
+      "size_bytes": 2595,
+      "tags": [
+        "ai",
+        "policy"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/tkai_status.py",
+      "size_bytes": 709,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/tkai_status_writer.py",
+      "size_bytes": 2365,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/tkai_stop.py",
+      "size_bytes": 812,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tools/tkai_ui.py",
+      "size_bytes": 7878,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "var/inventory",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "var/inventory/home-zebadiee",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "var/inventory/home-zebadiee-projects",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".json",
+      "kind": "file",
+      "path": "var/inventory/home-zebadiee/inventory.json",
+      "size_bytes": 6720201,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".md",
+      "kind": "file",
+      "path": "var/inventory/home-zebadiee/summary.md",
+      "size_bytes": 2664,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".json",
+      "kind": "file",
+      "path": "var/inventory/home-zebadiee-projects/inventory.json",
+      "size_bytes": 2646501,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".md",
+      "kind": "file",
+      "path": "var/inventory/home-zebadiee-projects/summary.md",
+      "size_bytes": 2193,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "vault/entities",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "vault/evidence",
+      "tags": []
+    },
+    {
+      "domain": "governance",
+      "kind": "directory",
+      "path": "vault/policy",
+      "tags": [
+        "policy"
+      ]
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "vault/research",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "vault/runtime",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "vault/solution_graphs",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".json",
+      "kind": "file",
+      "path": "vault/capabilities.json",
+      "size_bytes": 1385,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".json",
+      "kind": "file",
+      "path": "vault/graph_index.json",
+      "size_bytes": 229,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".json",
+      "kind": "file",
+      "path": "vault/graph_metrics.json",
+      "size_bytes": 759,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".json",
+      "kind": "file",
+      "path": "vault/pattern_index.json",
+      "size_bytes": 1255,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".json",
+      "kind": "file",
+      "path": "vault/patterns.json",
+      "size_bytes": 315,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".json",
+      "kind": "file",
+      "path": "vault/signals.json",
+      "size_bytes": 241,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".json",
+      "kind": "file",
+      "path": "vault/solution_graph.json",
+      "size_bytes": 1051,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".json",
+      "kind": "file",
+      "path": "vault/state.json",
+      "size_bytes": 241249,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".json",
+      "kind": "file",
+      "path": "vault/triggers.json",
+      "size_bytes": 301,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".json",
+      "kind": "file",
+      "path": "vault/entities/entities.json",
+      "size_bytes": 362,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".jsonl",
+      "kind": "file",
+      "path": "vault/evidence/evidence.jsonl",
+      "size_bytes": 21277,
+      "tags": []
+    },
+    {
+      "domain": "governance",
+      "extension": ".json",
+      "kind": "file",
+      "path": "vault/policy/scheduler_policy.json",
+      "size_bytes": 92,
+      "tags": [
+        "policy"
+      ]
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "vault/research/entities",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".md",
+      "kind": "file",
+      "path": "vault/research/entities/BINANCE.md",
+      "size_bytes": 199,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".md",
+      "kind": "file",
+      "path": "vault/research/entities/BTC.md",
+      "size_bytes": 179,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".json",
+      "kind": "file",
+      "path": "vault/runtime/acme_signal_bridge_state.json",
+      "size_bytes": 185,
+      "tags": []
+    },
+    {
+      "domain": "agents",
+      "extension": ".json",
+      "kind": "file",
+      "path": "vault/runtime/agent_candidates.json",
+      "size_bytes": 1698,
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".json",
+      "kind": "file",
+      "path": "vault/runtime/agent_registry.json",
+      "size_bytes": 1972,
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".json",
+      "kind": "file",
+      "path": "vault/runtime/clawx_autonomy_state.json",
+      "size_bytes": 150,
+      "tags": [
+        "autonomy",
+        "clawx"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".jsonl",
+      "kind": "file",
+      "path": "vault/runtime/clawx_log.jsonl",
+      "size_bytes": 19248,
+      "tags": [
+        "clawx"
+      ]
+    },
+    {
+      "domain": "infra",
+      "extension": ".json",
+      "kind": "file",
+      "path": "vault/runtime/cluster_map.json",
+      "size_bytes": 23123,
+      "tags": [
+        "cluster"
+      ]
+    },
+    {
+      "domain": "infra",
+      "extension": ".json",
+      "kind": "file",
+      "path": "vault/runtime/cluster_status.json",
+      "size_bytes": 147,
+      "tags": [
+        "cluster"
+      ]
+    },
+    {
+      "domain": "infra",
+      "extension": ".json",
+      "kind": "file",
+      "path": "vault/runtime/cluster_topology.json",
+      "size_bytes": 715,
+      "tags": [
+        "cluster"
+      ]
+    },
+    {
+      "domain": "agents",
+      "extension": ".json",
+      "kind": "file",
+      "path": "vault/runtime/discovered_agents.json",
+      "size_bytes": 1957,
+      "tags": [
+        "agent",
+        "agents"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".json",
+      "kind": "file",
+      "path": "vault/runtime/missions.json",
+      "size_bytes": 2219,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".json",
+      "kind": "file",
+      "path": "vault/runtime/processed_signals.json",
+      "size_bytes": 1028,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".json",
+      "kind": "file",
+      "path": "vault/runtime/scheduler_state.json",
+      "size_bytes": 23,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".jsonl",
+      "kind": "file",
+      "path": "vault/runtime/signals.jsonl",
+      "size_bytes": 20181,
+      "tags": []
+    },
+    {
+      "domain": "agents",
+      "extension": ".json",
+      "kind": "file",
+      "path": "vault/runtime/skill_candidates.json",
+      "size_bytes": 14921,
+      "tags": [
+        "skill"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".json",
+      "kind": "file",
+      "path": "vault/solution_graphs/market_alert_graph_v1.json",
+      "size_bytes": 847,
+      "tags": []
+    }
+  ],
+  "generated_at": "2026-03-12T20:04:24.418292+00:00",
+  "ignore_patterns": [
+    ".git",
+    "__pycache__",
+    "node_modules",
+    ".venv",
+    "venv",
+    "*.pyc",
+    ".pytest_cache",
+    ".mypy_cache"
+  ],
+  "root": "/home/zebadiee/TK-Ai-Maxx",
+  "summary": {
+    "by_domain": {
+      "agents": {
+        "directories": 2,
+        "files": 50
+      },
+      "ai": {
+        "directories": 3,
+        "files": 32
+      },
+      "experiments": {
+        "directories": 2,
+        "files": 1
+      },
+      "governance": {
+        "directories": 1,
+        "files": 1
+      },
+      "infra": {
+        "directories": 2,
+        "files": 22
+      },
+      "misc": {
+        "directories": 35,
+        "files": 118
+      }
+    },
+    "directories": 45,
+    "entries": 269,
+    "files": 224,
+    "top_level": {
+      ".acme-ai": {
+        "directories": 1,
+        "files": 0
+      },
+      ".github": {
+        "directories": 3,
+        "files": 4
+      },
+      ".gitignore": {
+        "directories": 0,
+        "files": 1
+      },
+      "AGENTS.md": {
+        "directories": 0,
+        "files": 1
+      },
+      "CLUSTER_STATUS.md": {
+        "directories": 0,
+        "files": 1
+      },
+      "LICENSE": {
+        "directories": 0,
+        "files": 1
+      },
+      "README.md": {
+        "directories": 0,
+        "files": 1
+      },
+      "SSH_SETUP.md": {
+        "directories": 0,
+        "files": 1
+      },
+      "SYSTEM.md": {
+        "directories": 0,
+        "files": 1
+      },
+      "adapters": {
+        "directories": 1,
+        "files": 1
+      },
+      "athena": {
+        "directories": 1,
+        "files": 2
+      },
+      "atlas": {
+        "directories": 2,
+        "files": 5
+      },
+      "cluster": {
+        "directories": 1,
+        "files": 2
+      },
+      "ct": {
+        "directories": 2,
+        "files": 8
+      },
+      "docs": {
+        "directories": 1,
+        "files": 6
+      },
+      "examples": {
+        "directories": 3,
+        "files": 9
+      },
+      "gateway": {
+        "directories": 1,
+        "files": 3
+      },
+      "hades": {
+        "directories": 1,
+        "files": 16
+      },
+      "kernel": {
+        "directories": 1,
+        "files": 9
+      },
+      "memory": {
+        "directories": 2,
+        "files": 3
+      },
+      "missions": {
+        "directories": 1,
+        "files": 1
+      },
+      "modules": {
+        "directories": 4,
+        "files": 17
+      },
+      "providers": {
+        "directories": 1,
+        "files": 4
+      },
+      "requirements.txt": {
+        "directories": 0,
+        "files": 1
+      },
+      "sandbox": {
+        "directories": 2,
+        "files": 1
+      },
+      "schema": {
+        "directories": 1,
+        "files": 1
+      },
+      "terminal": {
+        "directories": 1,
+        "files": 1
+      },
+      "tests": {
+        "directories": 1,
+        "files": 56
+      },
+      "tkai_start.sh": {
+        "directories": 0,
+        "files": 1
+      },
+      "tools": {
+        "directories": 1,
+        "files": 33
+      },
+      "var": {
+        "directories": 4,
+        "files": 4
+      },
+      "vault": {
+        "directories": 8,
+        "files": 29
+      }
+    }
+  }
+}

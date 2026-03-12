@@ -1,0 +1,18 @@
+{
+  "session_id": "pi-41037592fb3f",
+  "user_mood": "calm",
+  "snapshot_label": "",
+  "mode": "serious",
+  "started_at": 1773352172.6855,
+  "entries": [
+    {
+      "ts": 1773352172.6858997,
+      "user_text": "launch nuclear codes",
+      "skills": [],
+      "nodes": [],
+      "model_tier": "free",
+      "success": false,
+      "summary": "no_matching_skill"
+    }
+  ]
+}

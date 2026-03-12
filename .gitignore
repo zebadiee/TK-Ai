@@ -35,6 +35,22 @@ logs/
 vault/state.json
 vault/graph_metrics.json
 vault/pattern_index.json
+vault/policy/scheduler_policy.json
+vault/runtime/clawx_log.jsonl
+vault/runtime/signals.jsonl
+vault/runtime/discovered_agents.json
+vault/runtime/scheduler_state.json
+vault/runtime/scheduler_status.json
+vault/runtime/cluster_status.json
+vault/runtime/hades_assist_events.jsonl
+vault/runtime/hades_assist_model_metrics.json
+vault/runtime/hades_assist_model_policy.json
+vault/runtime/hades_assist_model_selection.json
+vault/runtime/hades_assist_skill_registry.json
+vault/runtime/hades_assist_skill_state.json
+vault/runtime/atlas_skill_registry.json
+vault/runtime/hermes_skill_registry.json
+snapshots/
 
 # Keep tracked (templates & static config)
 # vault/patterns.json - static route definitions
@@ -44,3 +60,6 @@ vault/pattern_index.json
 # vault/solution_graphs/ - versioned graph templates
 # vault/signals.json - signal definitions
 # vault/graph_index.json - graph registry index
+
+# Home-dir inventories (may contain secrets from filesystem scan)
+var/inventory/home-*/

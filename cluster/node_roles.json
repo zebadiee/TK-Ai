@@ -1,0 +1,27 @@
+{
+  "atlas": {
+    "role": "gpu_worker",
+    "services": [
+      "inference"
+    ]
+  },
+  "hades": {
+    "role": "control",
+    "services": [
+      "scheduler",
+      "clawx",
+      "policy_daemon",
+      "signals",
+      "evidence",
+      "acme_signal_bridge",
+      "acme_hades_mesh",
+      "acme_mission_control"
+    ]
+  },
+  "hermes": {
+    "role": "worker",
+    "services": [
+      "support"
+    ]
+  }
+}

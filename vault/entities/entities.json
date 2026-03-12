@@ -1,0 +1,19 @@
+{
+  "BINANCE": {
+    "aliases": [
+      "binance",
+      "binance.com"
+    ],
+    "type": "exchange",
+    "notes": "Primary exchange monitored for derivatives and funding anomalies."
+  },
+  "BTC": {
+    "aliases": [
+      "bitcoin",
+      "BTCUSDT",
+      "XBT"
+    ],
+    "type": "asset",
+    "notes": "Funding anomalies observed on Binance derivatives."
+  }
+}

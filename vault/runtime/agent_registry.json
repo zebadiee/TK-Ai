@@ -1,0 +1,66 @@
+{
+  "investigation_agent": {
+    "node": "hades",
+    "entrypoint": "tools/tkai_investigation_daemon.py"
+  },
+  "cluster_doctor": {
+    "node": "hades",
+    "entrypoint": "/home/zebadiee/TK-Ai-Maxx/tools/cluster_doctor.py"
+  },
+  "atlas_inference": {
+    "node": "atlas",
+    "entrypoint": "/home/zebadiee/TK-Ai-Maxx/tools/atlas_inference_agent.py"
+  },
+  "acme_governance": {
+    "node": "hades",
+    "entrypoint": "/home/zebadiee/ACME-AI/governance_cli.py"
+  },
+  "acme_dashboard": {
+    "node": "hades",
+    "entrypoint": "/home/zebadiee/ACME-AI/acme_ai/dashboard.py"
+  },
+  "clawx_console": {
+    "node": "hades",
+    "entrypoint": "/home/zebadiee/TK-Ai-Maxx/modules/clawx_engine/clawx_console.py"
+  },
+  "clawx_autonomy": {
+    "node": "hades",
+    "entrypoint": "/home/zebadiee/TK-Ai-Maxx/tools/clawx_autonomy.py"
+  },
+  "investigation_loop": {
+    "node": "hades",
+    "entrypoint": "/home/zebadiee/TK-Ai-Maxx/modules/investigation_engine/investigation_loop.py"
+  },
+  "test_clawx_console": {
+    "node": "hades",
+    "entrypoint": "/home/zebadiee/TK-Ai-Maxx/tests/test_clawx_console.py"
+  },
+  "test_cluster_doctor": {
+    "node": "hades",
+    "entrypoint": "/home/zebadiee/TK-Ai-Maxx/tests/test_cluster_doctor.py"
+  },
+  "test_tkai_policy_daemon": {
+    "node": "hades",
+    "entrypoint": "/home/zebadiee/TK-Ai-Maxx/tests/test_tkai_policy_daemon.py"
+  },
+  "tkai_investigation_daemon": {
+    "node": "hades",
+    "entrypoint": "/home/zebadiee/TK-Ai-Maxx/tools/tkai_investigation_daemon.py"
+  },
+  "tkai_launch": {
+    "node": "hades",
+    "entrypoint": "/home/zebadiee/TK-Ai-Maxx/tools/tkai_launch.py"
+  },
+  "tkai_mission_control": {
+    "node": "hades",
+    "entrypoint": "/home/zebadiee/TK-Ai-Maxx/tools/tkai_mission_control.py"
+  },
+  "tkai_policy_daemon": {
+    "node": "hades",
+    "entrypoint": "/home/zebadiee/TK-Ai-Maxx/tools/tkai_policy_daemon.py"
+  },
+  "arch_scan": {
+    "node": "hades",
+    "entrypoint": "/home/zebadiee/ACME-AI/arch_scan.py"
+  }
+}

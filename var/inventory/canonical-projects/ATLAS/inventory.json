@@ -1,0 +1,335 @@
+{
+  "entries": [
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": ".",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "config",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "logs",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "scripts",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "src",
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "kind": "directory",
+      "path": "tests",
+      "tags": []
+    },
+    {
+      "domain": "agents",
+      "extension": ".md",
+      "kind": "file",
+      "path": "AGENTS.md",
+      "size_bytes": 2452,
+      "tags": [
+        "agent",
+        "agents"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".md",
+      "kind": "file",
+      "path": "README.md",
+      "size_bytes": 2904,
+      "tags": []
+    },
+    {
+      "domain": "ai",
+      "extension": ".env",
+      "kind": "file",
+      "path": "config/acme_ai.env",
+      "size_bytes": 341,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".env",
+      "kind": "file",
+      "path": "config/acme_ai.example.env",
+      "size_bytes": 341,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "infra",
+      "extension": ".yaml",
+      "kind": "file",
+      "path": "config/hades_runtime.yaml",
+      "size_bytes": 248,
+      "tags": [
+        ".yaml",
+        "ml"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".txt",
+      "kind": "file",
+      "path": "config/models.example.txt",
+      "size_bytes": 33,
+      "tags": [
+        "model",
+        "models"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".log",
+      "kind": "file",
+      "path": "logs/acme_ai_service.log",
+      "size_bytes": 30791,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".sh",
+      "kind": "file",
+      "path": "scripts/_runtime_config.sh",
+      "size_bytes": 1259,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".sh",
+      "kind": "file",
+      "path": "scripts/bootstrap_hades.sh",
+      "size_bytes": 827,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".sh",
+      "kind": "file",
+      "path": "scripts/check_runtime.sh",
+      "size_bytes": 927,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".sh",
+      "kind": "file",
+      "path": "scripts/doctor.sh",
+      "size_bytes": 1891,
+      "tags": []
+    },
+    {
+      "domain": "misc",
+      "extension": ".sh",
+      "kind": "file",
+      "path": "scripts/install_ollama.sh",
+      "size_bytes": 275,
+      "tags": []
+    },
+    {
+      "domain": "ai",
+      "extension": ".sh",
+      "kind": "file",
+      "path": "scripts/pull_models.sh",
+      "size_bytes": 808,
+      "tags": [
+        "model",
+        "models"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".sh",
+      "kind": "file",
+      "path": "scripts/run_acme_ai.sh",
+      "size_bytes": 3129,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".sh",
+      "kind": "file",
+      "path": "scripts/system_check.sh",
+      "size_bytes": 4565,
+      "tags": []
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": "src/acme_ai",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "src/__init__.py",
+      "size_bytes": 1,
+      "tags": []
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "src/acme_ai_service.py",
+      "size_bytes": 11231,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "kind": "directory",
+      "path": "src/acme_ai/router",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "src/acme_ai/__init__.py",
+      "size_bytes": 1,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "src/acme_ai/router/__init__.py",
+      "size_bytes": 1,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "src/acme_ai/router/router.py",
+      "size_bytes": 1748,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/conftest.py",
+      "size_bytes": 144,
+      "tags": []
+    },
+    {
+      "domain": "ai",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_acme_ai_service.py",
+      "size_bytes": 3340,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "domain": "misc",
+      "extension": ".py",
+      "kind": "file",
+      "path": "tests/test_router.py",
+      "size_bytes": 2477,
+      "tags": []
+    }
+  ],
+  "generated_at": "2026-03-12T20:07:08.935719+00:00",
+  "ignore_patterns": [
+    ".git",
+    "__pycache__",
+    "node_modules",
+    ".venv",
+    "venv",
+    "*.pyc",
+    ".pytest_cache",
+    ".mypy_cache"
+  ],
+  "root": "/home/zebadiee/ATLAS",
+  "summary": {
+    "by_domain": {
+      "agents": {
+        "directories": 0,
+        "files": 1
+      },
+      "ai": {
+        "directories": 2,
+        "files": 11
+      },
+      "infra": {
+        "directories": 0,
+        "files": 1
+      },
+      "misc": {
+        "directories": 6,
+        "files": 10
+      }
+    },
+    "directories": 8,
+    "entries": 31,
+    "files": 23,
+    "top_level": {
+      "AGENTS.md": {
+        "directories": 0,
+        "files": 1
+      },
+      "README.md": {
+        "directories": 0,
+        "files": 1
+      },
+      "config": {
+        "directories": 1,
+        "files": 4
+      },
+      "logs": {
+        "directories": 1,
+        "files": 1
+      },
+      "scripts": {
+        "directories": 1,
+        "files": 8
+      },
+      "src": {
+        "directories": 3,
+        "files": 5
+      },
+      "tests": {
+        "directories": 1,
+        "files": 3
+      }
+    }
+  }
+}

@@ -1,0 +1,597 @@
+[
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/athena/__init__.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/athena/interface.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/atlas/__init__.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/atlas/executor.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/atlas/proposers/__init__.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/atlas/proposers/ollama_proposer.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/atlas/providers.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/ct/__init__.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/ct/skills/__init__.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/ct/skills/agent_classifier.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/ct/skills/cluster_cartographer.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/ct/skills/skill_classifier.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/examples/acme_ai/run_scheduler.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/examples/basic_run.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/gateway/__init__.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/gateway/evidence_reader.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/gateway/hermes_api.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/__init__.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/budget.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/capabilities.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/graph_fitness.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/graph_planner.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/graph_registry.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/kernel.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/llm_graph_planner.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/model_router.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/patterns.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/router.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/scheduler.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/semantic_capabilities.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/signals.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/task_graph.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/hades/triggers.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/kernel/__init__.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/kernel/graph_fitness.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/kernel/graph_planner.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/kernel/graph_registry.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/kernel/kernel.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/kernel/llm_graph_planner.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/kernel/scheduler.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/kernel/task_graph.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/kernel/triggers.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/memory/__init__.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/memory/obsidian_bridge/__init__.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/memory/obsidian_bridge/entity_writer.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/__init__.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/clawx_engine/__init__.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/clawx_engine/anomaly_detector.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/clawx_engine/clawx_console.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/clawx_engine/clawx_engine.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/clawx_engine/clawx_logger.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/clawx_engine/clawx_subscriber.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/clawx_engine/hypothesis_builder.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/clawx_engine/scheduler_policy_rules.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/clawx_engine/scheduler_policy_writer.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/clawx_engine/signal_adapter.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/clawx_engine/signal_writer.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/investigation_engine/__init__.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/investigation_engine/investigation_loop.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/investigation_engine/ollama_analyser.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/router/__init__.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/modules/router/model_router.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/providers/__init__.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/providers/async_worker_stub.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/providers/base.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/providers/ollama_provider.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/sandbox/clawx_lab/simulate_evidence_stream.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/conftest.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_bootstrap_scaffold.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_budget.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_capabilities.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_clawx_console.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_clawx_engine_module.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_clawx_flow.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_clawx_logger.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_clawx_scheduler_policy.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_cluster_cartography.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_cluster_doctor.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_entity_writer.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_evidence_reader.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_examples.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_executor.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_graph_fitness.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_graph_planner.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_graph_registry.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_graphviz_render.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_hermes_insights_endpoint.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_interface.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_investigation_engine.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_investigation_model_router.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_kernel.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_llm_graph_planner.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_model_router.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_ollama_proposer.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_patterns.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_providers.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_router.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_scheduler.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_semantic_capabilities.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_signal_writer.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_signals.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_task_graph.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_tkai_policy_daemon.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_tkai_status_writer.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tests/test_triggers.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tools/cluster_doctor.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tools/graphviz_render.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tools/kickoff_phase1.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tools/load_cluster_env.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tools/sync_entities_to_obsidian.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tools/tkai_investigation_daemon.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tools/tkai_launch.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tools/tkai_live.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tools/tkai_mission_control.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tools/tkai_policy_daemon.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tools/tkai_status.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tools/tkai_status_writer.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/TK-Ai-Maxx/tools/tkai_stop.py",
+    "type": "python_skill"
+  },
+  {
+    "node": "hades",
+    "path": "/home/zebadiee/scripts/exo_stub.py",
+    "type": "python_skill"
+  }
+]

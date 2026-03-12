@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "owner": "ACME-AI",
+    "purpose": "Monitor BTC funding, summarise the move, and notify operators."
+  },
+  "nodes": [
+    {
+      "node_id": "monitor",
+      "action": "clawx_monitor",
+      "payload": {
+        "delivery": {
+          "channels": [
+            "console"
+          ],
+          "format": "summary"
+        },
+        "objective": "Monitor BTC funding on ACME-AI and capture unusual moves.",
+        "schedule": {
+          "every": "5m"
+        },
+        "sources": [
+          "acme_funding_feed"
+        ],
+        "task_type": "monitor"
+      }
+    },
+    {
+      "node_id": "analyse",
+      "action": "model_infer",
+      "payload": {
+        "model_route": {
+          "backend": "local",
+          "max_latency_ms": 1000,
+          "max_tokens": 256,
+          "model": "qwen2.5",
+          "reason": "acme_example_summary"
+        },
+        "prompt": "Summarise the latest BTC funding move from ACME-AI and state whether escalation is needed."
+      }
+    },
+    {
+      "node_id": "notify",
+      "action": "notify",
+      "payload": {
+        "channel": "console",
+        "message": "ACME-AI BTC funding summary ready"
+      }
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "investigate_atlas_latency": {
+    "steps": [
+      {
+        "agent": "investigation_agent",
+        "args": [
+          "--once"
+        ],
+        "skip_if_service_active": "tkai-investigation.service"
+      },
+      {
+        "agent": "cluster_doctor"
+      },
+      {
+        "agent": "atlas_inference",
+        "args": [
+          "health check"
+        ]
+      },
+      {
+        "agent": "arch_scan"
+      },
+      {
+        "agent": "acme_governance",
+        "args": [
+          "status"
+        ]
+      }
+    ]
+  },
+  "atlas_latency_investigation": {
+    "steps": [
+      {
+        "agent": "investigation_agent",
+        "args": [
+          "--once"
+        ],
+        "skip_if_service_active": "tkai-investigation.service"
+      },
+      {
+        "agent": "cluster_doctor"
+      },
+      {
+        "agent": "atlas_inference",
+        "args": [
+          "health check"
+        ]
+      },
+      {
+        "agent": "arch_scan"
+      },
+      {
+        "agent": "acme_governance",
+        "args": [
+          "status"
+        ]
+      }
+    ]
+  },
+  "funding_signal_triage": {
+    "steps": [
+      {
+        "agent": "investigation_agent",
+        "args": [
+          "--once"
+        ],
+        "skip_if_service_active": "tkai-investigation.service"
+      },
+      {
+        "agent": "cluster_doctor"
+      },
+      {
+        "agent": "acme_governance",
+        "args": [
+          "status"
+        ]
+      }
+    ]
+  },
+  "control_plane_health": {
+    "steps": [
+      {
+        "agent": "cluster_doctor"
+      },
+      {
+        "agent": "acme_governance",
+        "args": [
+          "status"
+        ]
+      }
+    ]
+  },
+  "control_plane_exploration": {
+    "steps": [
+      {
+        "agent": "cluster_doctor"
+      },
+      {
+        "agent": "arch_scan"
+      },
+      {
+        "agent": "acme_governance",
+        "args": [
+          "status"
+        ]
+      }
+    ]
+  },
+  "inference_node_exploration": {
+    "steps": [
+      {
+        "agent": "cluster_doctor"
+      },
+      {
+        "agent": "atlas_inference",
+        "args": [
+          "health check"
+        ]
+      }
+    ]
+  },
+  "gateway_node_exploration": {
+    "steps": [
+      {
+        "agent": "cluster_doctor"
+      }
+    ]
+  }
+}

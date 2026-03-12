@@ -1,0 +1,62 @@
+[
+  {
+    "name": "clawx_console",
+    "node": "hades",
+    "entrypoint": "/home/zebadiee/TK-Ai-Maxx/modules/clawx_engine/clawx_console.py",
+    "type": "python_agent"
+  },
+  {
+    "name": "investigation_loop",
+    "node": "hades",
+    "entrypoint": "/home/zebadiee/TK-Ai-Maxx/modules/investigation_engine/investigation_loop.py",
+    "type": "python_agent"
+  },
+  {
+    "name": "test_clawx_console",
+    "node": "hades",
+    "entrypoint": "/home/zebadiee/TK-Ai-Maxx/tests/test_clawx_console.py",
+    "type": "python_agent"
+  },
+  {
+    "name": "test_cluster_doctor",
+    "node": "hades",
+    "entrypoint": "/home/zebadiee/TK-Ai-Maxx/tests/test_cluster_doctor.py",
+    "type": "python_agent"
+  },
+  {
+    "name": "test_tkai_policy_daemon",
+    "node": "hades",
+    "entrypoint": "/home/zebadiee/TK-Ai-Maxx/tests/test_tkai_policy_daemon.py",
+    "type": "python_agent"
+  },
+  {
+    "name": "cluster_doctor",
+    "node": "hades",
+    "entrypoint": "/home/zebadiee/TK-Ai-Maxx/tools/cluster_doctor.py",
+    "type": "python_agent"
+  },
+  {
+    "name": "tkai_investigation_daemon",
+    "node": "hades",
+    "entrypoint": "/home/zebadiee/TK-Ai-Maxx/tools/tkai_investigation_daemon.py",
+    "type": "python_agent"
+  },
+  {
+    "name": "tkai_launch",
+    "node": "hades",
+    "entrypoint": "/home/zebadiee/TK-Ai-Maxx/tools/tkai_launch.py",
+    "type": "python_agent"
+  },
+  {
+    "name": "tkai_mission_control",
+    "node": "hades",
+    "entrypoint": "/home/zebadiee/TK-Ai-Maxx/tools/tkai_mission_control.py",
+    "type": "python_agent"
+  },
+  {
+    "name": "tkai_policy_daemon",
+    "node": "hades",
+    "entrypoint": "/home/zebadiee/TK-Ai-Maxx/tools/tkai_policy_daemon.py",
+    "type": "python_agent"
+  }
+]

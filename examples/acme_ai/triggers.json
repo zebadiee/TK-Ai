@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "condition": {
+        "asset": "BTC",
+        "hour": 9
+      },
+      "event_type": "schedule_tick",
+      "graph_id": "acme_btc_funding_watch"
+    }
+  ]
+}
